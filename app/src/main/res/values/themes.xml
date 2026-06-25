@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.FbliveUI" parent="android:Theme.Material.Light.NoTitleBar" />
+    <style name="Theme.FbliveUI" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
 
     <style name="Theme.FbliveUI.Splash" parent="Theme.FbliveUI">
         <item name="android:windowFullscreen">true</item>
